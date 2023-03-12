@@ -5,7 +5,7 @@ int main(){
     cin>>n;
     if(n<=2)cout<<"NO"<<endl;
     if(n%2!=0){
-        cout<<"YES"<<endl;
+        cout<<"NO"<<endl;
     }else{
         if(n/2%2!=0)
     cout<<"NO"<<endl;}
