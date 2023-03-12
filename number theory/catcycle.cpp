@@ -21,7 +21,7 @@ int main(){
             cout<<1+(k)%n<<endl;
         }
         else{
-            ll ins=(k)/((n-1)/2);
+            long long ins=(k)/((n-1)/2);
             cout<<1+(k+ins)%n<<endl;
         }
     }
